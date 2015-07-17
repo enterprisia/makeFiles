@@ -65,8 +65,37 @@ projects[features_builder][download][revision] = 81490f7ccd7872d68f08350c27ee776
 
 ; Content
 ;----------------------------------------
+projects[auto_entitylabel][version] = 1.3
+projects[auto_entitylabel][subdir] = contrib/content
+
 projects[colorbox][version] = 2.9
 projects[colorbox][subdir] = contrib/content
 
 projects[content_access][version] = 1.2-beta2
 projects[content_access][subdir] = contrib/content
+
+projects[entityreference][version] = 1.1
+projects[entityreference][subdir] = contrib/content
+
+; filefield_nginx_progress is automatically support+bundled, but it must be enabled
+
+projects[flag][version] = 3.6
+projects[flag][subdir] = contrib/content
+
+projects[nodequeue][version] = 2.0
+projects[nodequeue][subdir] = contrib/content
+
+projects[page_title][version] = 2.7
+projects[page_title][subdir] = contrib/content
+
+projects[radioactivity][version] = 2.10
+projects[page_title][subdir] = contrib/content
+
+projects[site_map][version] = 1.2
+projects[site_map][subdir] = contrib/content
+
+projects[transliteration][version] = 3.2
+projects[transliteration][subdir] = contrib/content
+
+projects[webform][version] = 4.10
+projects[webform][subdir] = contrib/content
