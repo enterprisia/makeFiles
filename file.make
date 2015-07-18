@@ -53,6 +53,10 @@ projects[bean][subdir] = contrib/configuration
 projects[features_override][version] = 2.0-rc2
 projects[bean][subdir] = contrib/configuration
 
+; Confirm this works with Aegir
+projects[habitat][version] = 1.0
+projects[habitat][subdir] = contrib/configuration
+
 projects[strongarm][version] = 2.0
 projects[bean][subdir] = contrib/configuration
 
@@ -102,4 +106,28 @@ projects[webform][subdir] = contrib/content
 
 ; DevOps
 ;----------------------------------------
-; nothing for now 07-16-15
+; nothing for now
+
+; Distributions
+;----------------------------------------
+; nothing for now
+
+; Path
+;----------------------------------------
+projects[filefield_paths][version] = 1.0-beta4
+projects[filefield_paths][subdir] = contrib/path
+
+projects[path_breadcrumbs][version] = 3.3
+projects[path_breadcrumbs][subdir] = contrib/path
+
+projects[pathauto][version] = 1.2
+projects[pathauto][subdir] = contrib/path
+
+projects[redirect][version] = 1.0-rc3
+projects[redirect][subdir] = contrib/path
+
+projects[subpathauto][version] = 1.3
+projects[subpathauto][subdir] = contrib/path
+
+projects[transliteration][version] = 3.2
+projects[transliteration][subdir] = contrib/content"
